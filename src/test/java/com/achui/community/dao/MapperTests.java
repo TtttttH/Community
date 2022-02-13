@@ -3,7 +3,6 @@ package com.achui.community.dao;
 import com.achui.community.CommunityApplication;
 import com.achui.community.entity.DiscussPost;
 import com.achui.community.entity.User;
-import jdk.management.resource.internal.inst.FileOutputStreamRMHooks;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
